@@ -6,6 +6,9 @@ contributor:
     alias: Francis, Richard D.
     gutenberg_agent_id: '33940'
     url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 51801-h/images/cover.jpg
 creator:
   author:
     agent_name: Duncan, David
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46559
     wikipedia: https://en.wikipedia.org/wiki/David_Duncan_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51801#The-Immortals
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-19'
 gutenberg_type: Text
